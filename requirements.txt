@@ -6,7 +6,4 @@ psutil==5.9.8
 transformers==4.37.2
 tokenizers==0.15.2
 torch==2.2.1
-
-
-
-
+googletrans==4.0.0-rc1
