@@ -3,6 +3,10 @@ feedparser==6.0.10
 requests==2.31.0
 pandas==2.1.4
 psutil==5.9.8
+transformers==4.37.2
+tokenizers==0.15.2
+torch==2.2.1
+
 
 
 
