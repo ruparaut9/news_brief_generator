@@ -1,0 +1,11 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Streamlit local settings
+.streamlit/
+
+# Ignore local database
+preferences.db
+
+# Ignore notebooks and temp files
+*.ipynb
